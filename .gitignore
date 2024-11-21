@@ -25,9 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-timestamps/
-data/
-pretrained/
+timestamps*/
+data*/
+pretrained*/
+lgb*/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
