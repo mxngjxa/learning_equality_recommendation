@@ -7,3 +7,4 @@ tqdm
 lightgbm
 sparse-dot-topn
 ipykernel
+matplotlib
