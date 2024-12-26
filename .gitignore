@@ -29,6 +29,8 @@ timestamps*/
 data*/
 pretrained*/
 lgb*/
+logs*/
+models*/
 .learning_equality
 
 # PyInstaller
